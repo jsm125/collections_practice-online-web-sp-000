@@ -39,5 +39,5 @@ def find_a(strings)
 end
 
 def sum_array(integers)
-  integers.sum_array
+  integers.inject
 end

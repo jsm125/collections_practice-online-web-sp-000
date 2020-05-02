@@ -37,4 +37,5 @@ new_strings_with_a = []
     if strings.start_with?("a")
     new_strings_with_a << strings.start_with?("a")
   end
+  new_strings_with_a
 end

@@ -42,6 +42,6 @@ def sum_array(integers)
   integers.inject {|result, element| result + element}
 end
 
-def add_s
-  
+def add_s(words)
+  words.
 end

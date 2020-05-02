@@ -33,5 +33,7 @@ def kesha_maker(strings)
 end
 
 def find_a(strings)
-  
+  strings.select do |string|
+    if string[0]="a"
+    
 end

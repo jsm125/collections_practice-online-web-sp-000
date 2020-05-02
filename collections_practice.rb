@@ -34,7 +34,7 @@ end
 
 def find_a(strings)
 new_strings_with_a = []
-    strings.start_with?("a")
+
     new_strings_with_a << strings.start_with?("a")
   end
   new_strings_with_a

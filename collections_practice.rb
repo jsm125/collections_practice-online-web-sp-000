@@ -34,6 +34,8 @@ end
 
 def find_a(strings)
   strings.select do |string|
-    if string[0]="a"
-    
+    if strings.start_with?("a")
+    new_strings_with_a << strings.start_with?("a")
+  end
+
 end
